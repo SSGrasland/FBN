@@ -3,11 +3,10 @@
 This repository serves to conserve the data collected on Feminist Bookstore News indexing project. 
 
 ## Navigating the Repo
---> data: a folder containing the orgininal database and cleaned database
---> images: data visualizations created on Tableau, python, and excel 
---> notebooks: jupyter lab notebooks containing the code used to clean, process, and study data 
---> reports: folder containing the reports 
-
+--> data: a folder containing the orgininal database and cleaned database    
+--> images: data visualizations created on Tableau, python, and excel      
+--> notebooks: jupyter lab notebooks containing the code used to clean, process, and study data        
+--> reports: folder containing the reports        
 
 ## What is Feminist Bookstore News (FBN)?
 

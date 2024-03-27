@@ -5,3 +5,4 @@ __pycache__
 *.db
 *.pytest_cache
 FBN PDFs-20240319T133812Z-001/
+/Issues

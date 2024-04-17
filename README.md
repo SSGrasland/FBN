@@ -3,9 +3,9 @@
 This repository serves to conserve the data collected on Feminist Bookstore News indexing project. 
 
 ## Navigating the Repo
---> data: a folder containing the orgininal database and cleaned database    
---> images: data visualizations created on Tableau, python, and excel      
---> notebooks: jupyter lab notebooks containing the code used to clean, process, and study data        
+--> data: a folder containing the booklist, article list, and subject list 
+--> Scraped: scraped material from each issue, including a booklist, .txt format of the issue, and an ISBN list     
+--> notebooks and flows: notebooks and flows containing the code used to clean, process, and study data. Created using python, Tableau Prep, and Alteryx     
 --> reports: folder containing the reports        
 
 ## What is Feminist Bookstore News (FBN)?
@@ -14,17 +14,17 @@ Feminist Bookstore News (FBN) was a trade newsletter that contained news on the 
 
 ## What is the FBN Project?
 
-We are currently working on a database of FBN articles that researchers can use to conduct statistical analysis on FBN. The goal is to complete this database by the end of summer 2023.
+We are currently working on a database of FBN articles that researchers can use to conduct statistical analysis on FBN. 
 
-### Future ideas include:
-A database of all the books mentioned in FBN
-A database of all the feminist bookstores mentioned in FBN
-A short book or zine anthologizing FBN's bookselling advice
-An anthology of relevant FBN articles
+### Goals include:
+A database of all the books mentioned in FBN    
+A database of all the feminist bookstores mentioned in FBN     
+A short book or zine anthologizing FBN's bookselling advice     
+An anthology of relevant FBN articles        
 
 ## How to Get Involved
 
-We need help with filling out the database of articles. To get started, email Julie (julie@sinisterwisdom.org) to be added to our Google Group!
+To get started, email Julie (julie@sinisterwisdom.org) to be added to our Google Group!
 
 
 

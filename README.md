@@ -26,5 +26,19 @@ An anthology of relevant FBN articles
 
 To get started, email Julie (julie@sinisterwisdom.org) to be added to our Google Group!
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded PDF</title>
+</head>
+<body>
+    <iframe src="https://drive.google.com/file/d/1lrF3ITBOOVqYLT3bRqw4LMBwLE9SogtP/preview" width="100%" height="800px" frameborder="0">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1lrF3ITBOOVqYLT3bRqw4LMBwLE9SogtP/view?usp=drivesdk">Download PDF</a>.
+    </iframe>
+</body>
+</html>
+
 
 
